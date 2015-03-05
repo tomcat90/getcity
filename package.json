@@ -1,0 +1,21 @@
+{
+  "author": "Thomas Tingey",
+  "name": "cs360getcity",
+  "version": "0.0.02",
+  "description": "Returns a JSON of cities in Utah",
+  "main": "getcity",
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/tomcat90/getcity.git"
+  },
+  "keywords": [
+    "cities",
+    "utah",
+    "node",
+    "cs360"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
